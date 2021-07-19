@@ -1,4 +1,5 @@
 # pics-Python
+
 一个python的图片爬虫，支持百度图片，必应图片。
 
 ## 使用库
@@ -13,7 +14,11 @@ from tkinter import ttk
 import tkinter.messagebox
 ```
 
+第三方：
+
 ```shell
 pip install requests
 pip install lxml
 ```
+
+作为python爬虫入门作品...简单地用tkinter库绘制了图形界面，摆脱了用了几年的控制台😝！
